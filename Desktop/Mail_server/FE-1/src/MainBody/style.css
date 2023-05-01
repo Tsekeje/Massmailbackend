@@ -1,0 +1,63 @@
+.h1{
+    display: flex;
+    width: 90%;
+    height: 500px;
+    margin: auto;
+
+}
+.bigheader{
+    text-align: center;
+
+}
+.h1i1{
+background-color: #548dc4;
+width: 48.5%;
+height: 95%;
+
+
+}
+.h1i2{
+    background-color: #548dc4;
+width: 48.5%;
+height: 95%;
+margin-left: auto;
+
+
+}
+.header1{
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.imagein{
+    border: 2px solid white;
+ height: 85%;
+ width: 96%;
+ margin-left: 10px;
+
+}
+.outheader{
+
+    width: 70%;
+    height: 100vh;
+    margin: auto;
+ 
+
+}
+.tables{
+
+    align-items: center;
+    margin: auto;
+    width: 90%;
+}
+.Graphline{
+    width: 85%;
+    height: 70%;
+    margin: auto;
+}
+.selectsection{ 
+    width: 85%;
+    height: 10%;
+    margin: auto;
+}

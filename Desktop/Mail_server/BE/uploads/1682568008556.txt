@@ -1,0 +1,23 @@
+8059SW-02
+Firmware:  2.29 11/22
+
+Station: crc           (Nsts,AMB-8059     S/N 390ZY21114)
+
+    Date: 03/14/2023	Time: 00.00   (RMS  15 minute )
+
+    Latitude: 4754.8675 N
+    Longitude: 10645.7212 E
+
+Probe HP-1B-01 (Last Calibrated:18.11.22)
+Probe EP-1B-05 (Last Calibrated:28.10.22)
+
+
+
+Date;Time;TxOn;RMS;RMS;Peak;Peak;Current;RH;
+;;;HP-1B-01;EP-1B-05;HP-1B-01;EP-1B-05;mA;%;
+;;;ÁT;V/m;ÁT;V/m;
+
+03/14/2023;00:00:00;;0.20;3.93;0.20;3.91;0;17;
+03/14/2023;12:00:30 AM;;0.20;3.93;0.20;3.91;0;17;
+03/14/2023;12:01:00 AM;;0.20;3.93;0.20;3.91;0;17;
+03/14/2023;00:00:00;;0.20;3.93;0.20;3.91;0;17;
